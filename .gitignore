@@ -1,3 +1,6 @@
 coach_info.txt
 signature.png
 .ipynb_checkpoints/
+*.pdf
+*.PDF
+*.csv

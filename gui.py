@@ -1,6 +1,7 @@
 import tkinter, os
 from tkinter import messagebox
 from tkinter import filedialog
+import pdf_editor
 
 root_path = os.getcwd()
 
